@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  margin-top: 60px;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 50px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.custom-margin {
+  padding: 20px;
+}
+
+.card-img, .card-img-top {
+  height: 200px;
+}
+
+button {
+  background-color: transparent;
+  width: 100%;
+}
+
+.footer{
+  padding: 30px;
+  border-top: 1px solid #000000;
+  margin-top: 50px;
+}
+
+
+
+
+
