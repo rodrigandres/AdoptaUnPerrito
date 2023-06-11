@@ -2,7 +2,6 @@ import { Card } from 'react-bootstrap';
 import Tags from './Tags';
 import TextBlock from './TextBlock';
 
-
 const MyCard = ({src, title2, text, btn, borderColor}) => {
     return (
         <>
